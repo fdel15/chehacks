@@ -1,0 +1,55 @@
+h1 {
+ text-align: center;
+ font-family: "Bauhaus 93";
+ font-size: 35px;
+ color: black;
+}
+
+
+#alertButtonF {
+ background: none;
+ border-style: none;
+ border: 2px solid black;
+ padding: 10px;
+ color: black;
+ text-align:center;
+ font-family: "Bauhaus 93";
+ font-size: 18px;
+}
+
+#alertButtonF:hover {
+ background-color: black;
+ color: purple;
+}
+#alertButtonG {
+ background: none;
+ border-style: none;
+ border: 2px solid black;
+ padding: 10px;
+ color: black;
+ text-align:center;
+ font-family: "Bauhaus 93";
+ font-size: 18px;
+}
+
+#alertButtonG:hover {
+ background-color: black;
+ color: purple;
+}
+body {
+ text-align: center;
+ font-family: "georgia";
+ background-color: purple;
+}
+
+
+ img {
+ width: 400px;
+ margin: -20px 0px 0px 0px;
+ }
+#container {
+ height:300px;
+ width:400px;
+ margin: auto;
+ border-radius: 20%;
+ overflow: hidden;
